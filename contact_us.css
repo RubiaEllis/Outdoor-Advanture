@@ -39,6 +39,7 @@
     text-shadow: 5px 7px 15px rgb(0, 0, 0),0 0 5px rgb(0, 0, 0);
     font-size: 25px;
     text-decoration: none;
+    text-transform: capitalize;
 }
 .nav >ul>li>a:hover{
     border: 5px outset rgb(103, 235, 114);
